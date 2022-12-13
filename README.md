@@ -67,9 +67,9 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 ---
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hankhng&theme=radical&background=000000&mode=weekly)](https://git.io/streak-stats) 
-![Hank's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankhng&show_icons=true&theme=tokyonight&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hankhng&theme=radical&background=000000&mode=weekly)](https://git.io/streak-stats)
 
+![Hank's GitHub stats](https://github-readme-stats.vercel.app/api?username=hankhng&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankhng&layout=compact&hide=ruby)](https://github.com/hankhng/github-readme-stats)
 
