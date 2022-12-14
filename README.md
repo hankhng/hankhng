@@ -80,7 +80,7 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-- 💼 Any questions? feel free to reach out, [email](mailto:hello@hankhng.com) :)
-- 💬 Ask me about anything, i am happy to help;
+- 💼 Any questions or want to work together? Feel free to reach out via [email](mailto:hello@hankhng.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
   
