@@ -81,7 +81,7 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 ### CodeSandBox:
 
-- [WIP] Worlde clone: https://codesandbox.io/s/gracious-austin-9rd1gf?file=/src/App.js 
+- [WIP] Wordle clone: https://codesandbox.io/s/gracious-austin-9rd1gf?file=/src/App.js 
 
 ---
 
