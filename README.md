@@ -79,9 +79,10 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-### CodeSandBox:
+### Links:
 
-- [WIP] Wordle clone: https://codesandbox.io/s/gracious-austin-9rd1gf?file=/src/App.js 
+- [WIP] Wordle clone: https://codesandbox.io/s/gracious-austin-9rd1gf?file=/src/App.js
+- Good modern frontend architecture: https://medium.com/@hnghank/what-does-good-modern-frontend-software-architecture-look-like-2553b0dffffa
 
 ---
 
