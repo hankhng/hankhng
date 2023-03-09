@@ -82,7 +82,7 @@ Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░
 ### Links:
 
 - [WIP] Wordle clone: https://codesandbox.io/s/gracious-austin-9rd1gf?file=/src/App.js
-- Simple demo of React-redux: https://codesandbox.io/s/rtk-forked-6fnmdo?file=/src/store/index.js:943-955
+- Simple demo of React-redux: https://codesandbox.io/s/rtk-forked-6fnmdo?file=/src/store/index.js
 - Good modern frontend architecture: https://medium.com/@hnghank/what-does-good-modern-frontend-software-architecture-look-like-2553b0dffffa
 
 ---
