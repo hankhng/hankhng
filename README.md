@@ -22,7 +22,7 @@
 
 Hey I'm Hank! :wave:  
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a motivated Frontend Software Engineer with 5+ years of fast-paced startup experience. 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a motivated Frontend Software Engineer with 7+ years of fast-paced startup experience. 
 
 - :rocket: Currently building with ReactJS, JavaScript and TypeScript. Experienced with REST/GraphQL APIs. Previous server-side experience with Ruby on Rails. 
 
